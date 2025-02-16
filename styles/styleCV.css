@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    
+    width: 100%;
+    height: 100%;
+    background-color:#000;
+    text-align: justify;
+    
+}
+.header{
+    padding: 2% 0% 0% 15% ;
+}
+.header__menu{
+    display: flex;
+    gap: 30px
+}
+.header__menu__link{
+    font-family: 'Montserrat', sans serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #22D4FD;
+    text-decoration: none;
+    margin: 30px 0px 0px 50px;
+}
+.curriculum_cv{
+    width: 43%;
+    height: 100%;
+    margin: 40px 0px 0px 450px;
+    border: solid px;
+    box-shadow: 0px 0px 30px;
+    display: flex;
+    background-color: #e8ebeb;
+    
+}
+.personales{
+    width: 35%;
+    background-color:#535252;
+    color:#e8ebeb;
+    
+}
+.contacto{
+    display: flex;
+    padding: 6%;
+    
+   
+}
+.foto-perfil{
+    width: 150px;
+    border-radius: 50%;
+    margin:5px 5px 5px 8px;
+    
+}
+.informacion{
+    padding: 12px;
+}
+.datos_contacto{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.linkedin{
+    color: white;
+    text-decoration: none;
+}
+.Habilidades{
+    display:flex;
+    padding: 12px;
+}
+.laboral{
+    
+    margin-left:10px;
+    width: 70%;
+    
+}
+.nombre{
+    margin: 40px 0px 10px 10px;
+    font-family: 'Krona one', sans serif;
+    color:#424141;
+    height: 100px;
+}
+.hr-laboral{
+    margin-left: 5px;
+    height:4px;/*cambia la altura en pixeles*/
+    width: 95% ; /* Cambia la anchura al 50% del contenedor */
+    background-color:#424141; /*cambia el color  línea */
+    
+}
+.habilidades{
+    margin-left:38px;
+}
+h5{
+    margin-left: 20px;
+    
+}
+h3{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 20px;
+}
+#empresa-año{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px 0px 20px;
+    
+}
+#empresa-año-parrafo{
+    display: flex;
+    justify-content: space-between;
+    color:#424141;
+    margin: 0px 30px 0px 20px;
+    font-size: 0.8rem;
+}
+.logo-inacap{
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.formacion-carrera{
+    display:flex;
+    
+}
+.texto{
+    margin: 30px 0px 0px 15px;
+    font-size: 0.8rem;
+}
