@@ -2,7 +2,8 @@
 
 Este es un proyecto que nos solicitaron el curso de Alura Latam, consta de 3 paginas en la que encontraras información sobre mí
 
-![pagina principal del portafolio 2025-02-16 193401](https://github.com/user-attachments/assets/3e9272a2-1d55-4fe8-b9a0-a4528d648eec)
+![pagina principal del portafolio 2025-02-16 193401](https://github.com/user-attachments/assets/f4048b81-1528-4f53-8f33-63cfaee4c058)
+
 
 
 ## Herramientas utilizadas:
